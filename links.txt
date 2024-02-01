@@ -1,0 +1,10 @@
+1: https://mgscube.webflow.io
+2: https://mgscube.webflow.io/tutorials
+3: https://mgscube.webflow.io/tutorials/lesson-1
+4: https://mgscube.webflow.io/tutorials/lesson-2
+5: https://mgscube.webflow.io/tutorials/lesson-3
+6: https://mgscube.webflow.io/tutorials/lesson-4
+7: https://mgscube.webflow.io/tutorials/lesson-5
+8: https://mgscube.webflow.io/tutorials/lesson-6
+9: https://mgscube.webflow.io/tutorials/lesson-7
+10: https://mgscube.webflow.io/tutorials/lesson-8
